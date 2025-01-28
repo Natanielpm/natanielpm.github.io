@@ -1,0 +1,51 @@
+#estesoyyo{
+    display: none;
+    color: whitesmoke;
+    text-align: center;
+}
+
+#acercademi, #contactame{
+    color: whitesmoke;
+    text-align: center;
+} 
+
+#HaBlandas, #HabilidadesB{
+    color: black;
+    padding-left: 30%;
+}
+
+#carrusel1, #carrusel2{
+    color: black;
+}
+
+#RespPresupuestos, #RespProyectos, #RespMantenimiento, #RespProyectista,#HabilidadesB, #software{
+    display: none;
+}
+
+.contactame{
+    color: whitesmoke;
+}
+
+.icon-container {
+    text-align: center; 
+}
+
+.icon-container {
+    color: #fff;
+}
+
+.icon-container i:hover {
+    transform: scale(1.3); /* Escala el ícono al 120% */
+}
+
+#IngPresupuestos:hover, #IngProyectos:hover, #IngMantenimiento:hover, #IngProyectista:hover{
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+
+
+
+
+
+
+
