@@ -1,9 +1,9 @@
 // // esta función se usa para asegurarse de que el código se ejecute después de que el documento HTML haya sido completamente cargado.
 $(document).ready(function () {
 
-    $("#acercademi").mouseover(function () {
-        $("#estesoyyo").toggle(); //método de jQuery que cambia el estado de visibilidad del elemento.
-    })
+    //$("#acercademi").mouseover(function () {
+        //$("#estesoyyo").toggle(); //método de jQuery que cambia el estado de visibilidad del elemento.
+   // })
 
     $("#HaBlandas").mouseover(function () {
         $("#HabilidadesB").toggle(); //método de jQuery que cambia el estado de visibilidad del elemento.

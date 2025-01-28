@@ -1,5 +1,5 @@
 #estesoyyo{
-    display: none;
+    /*display: none;*/
     color: whitesmoke;
     text-align: center;
 }
@@ -14,8 +14,8 @@
     padding-left: 30%;
 }
 
-#carrusel1, #carrusel2{
-    color: black;
+ #carrusel2{
+    /*color: black;
 }
 
 #RespPresupuestos, #RespProyectos, #RespMantenimiento, #RespProyectista,#HabilidadesB, #software{
@@ -40,6 +40,50 @@
 
 #IngPresupuestos:hover, #IngProyectos:hover, #IngMantenimiento:hover, #IngProyectista:hover{
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+.card-custom {
+    width: 500px;
+    background-color: #333;
+    color: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    margin: 50px auto;
+}
+.card-header {
+    background-color: #444;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px;
+}
+.card-img {
+    width: 100%;
+    height: auto;
+}
+.card-body {
+    padding: 20px;
+    
+}
+.card-title {
+    font-size: 18px;
+    font-weight: bold;
+}
+.card-text {
+    font-size: 14px;
+    color: #ccc;
+}
+.btn-custom {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.btn-custom:hover {
+    background-color: darkred;
 }
 
 
